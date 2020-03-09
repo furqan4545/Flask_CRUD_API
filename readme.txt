@@ -1,3 +1,4 @@
-#Flask CRUD API
-### flask crud api with sqlite integerated inside
-### The Mechanic
+Flask CRUD API
+
+flask crud api with sqlite integerated inside
+The Mechanic
